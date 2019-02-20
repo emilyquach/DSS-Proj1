@@ -14,9 +14,9 @@ This repo includes the resumes of the following people:
 * 5 sentence summary describing the person from Resume 1.
 * Jobs interested in: [List 3 jobs titles that this person is looking for. Be relevant and creative!]
 
-###### [Name of Person that Resume 2 is about]
-* 5 sentence summary describing the person from Resume 2.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### Wii Fit Trainer
+* I am currently a professional fighter in the roster of Super Smash Bros Ultimate as well as a casual fitness trainer. As a fighter, I have successfully turned my low tier self from SSB4 into a viable fighter in the meta. I am flexible, powerful, and determined to continue tightening my glutes. I believe that people need to take care of their health, and I am the right person to help them. In my Wii Fit position, I have successfully sold 22.67 million copies of my fitness training practices.
+* Jobs interested in: Professional Lifestyle Vlogger, Personal Trainer, Top Tier Fighter
 
 ###### [Ross Irwin]
 * A lot of my experience has been focues around BridgeUSA. BridgeUSA is an organization on college campuses that brings together everyone from across the political spectrum to talk productively and empathetically. I began working for the organization when I helped start the chapter at Berkeley my freshman year. Now I work on the national org and have relinquished control over the Berkeley chapter. I have also had experience with social media marketing and some web design but I am not nearly as good at those two.
