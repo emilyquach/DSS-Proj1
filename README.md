@@ -20,5 +20,5 @@ This repo includes the resumes of the following people:
 * Jobs interested in: Entry Level Consultant, Future500 Analyst Position, Non-profit Development.
 
 ###### [Pikachu]
-* Pikachu is an electric mouse Pokemon, looking for a new job. With his trainer, Ash Ketchum, and the rest of their team, Pikachu is trying to be the very best there ever was. To be quite honest, he's practically there already. You can tell because he was voiced by Ryan Reynalds. Pikachu loves ketchup and hanging out with his fellow pokemon. He also loves long walks on the beach and Pina Coladas.
+* I am an electric mouse type Pokemon looking for a new trainer to help me be the best there ever was. My previous trainer, Ash Ketchum was great, but I’m ready to expand my horizons. I’m looking for someone new to help me be the very best there ever was. (I’m getting close–you can tell because I was voiced by Ryan Reynolds.) I’ve been the very successful mascot of a popular franchise, Pokemon, since it’s inception. The Pokemon franchise has generated over 70 billion dollars in revenue. My favorite pastimes are: eating ketchup, training with my friends, and long walks on the beach.
 * Jobs interested in: Model, Voice Actor, Pop Star
