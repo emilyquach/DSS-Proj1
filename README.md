@@ -6,9 +6,6 @@
 
 This repo includes the resumes of the following people:
 
-###### EXAMPLE: Leslie Knope (DELETE ME BEFORE SUBMITTING)
-* I am currently the Deputy Director of the Parks and Recreation Department of Pawnee, Indiana. In this position, I successfully turned a dangerous pit into a beautiful community park called the Pawnee Commons. I absolutely love my job! I believe that the three most important things in life are friends, waffles, and work... or I mean, waffles, friends, and work. I am just an example of what you need to do, so please delete me before turning your project in.
-* Jobs interested in: City Councilwoman, Midwest Regional Director of the National Parks Service, Governor of Indiana
 
 ###### [Name of Person that Resume 1 is about]
 * 5 sentence summary describing the person from Resume 1.
