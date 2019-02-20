@@ -6,10 +6,9 @@
 
 This repo includes the resumes of the following people:
 
-
-###### [Name of Person that Resume 1 is about]
-* 5 sentence summary describing the person from Resume 1.
-* Jobs interested in: [List 3 jobs titles that this person is looking for. Be relevant and creative!]
+###### Eavy Barbieux
+* I am a currently a graduating senior from UC Berkeley. I am determined to use my intersectional knowledge to create effective, cooperative, and innovative solutions to environmental-societal conflicts, and to facilitate productive communication between the many sectors involved in addressing these issues. I believe that within success lies the work of a diversity of experience and perspective and I'm excited to work in a space that values this as well. Some of the fields I'm interested in include environmental consulting, environmental and public policy assessment, applied research, grassroots organizing, food and environmental justice and nursing. I also value taking time for creative exploration, especially through music, writing, and printmaking.
+* Jobs interested in: Entr-level Environmental Consusltant; Emergency Medical Technician; Think-Tank Applied Research Assistant
 
 ###### Wii Fit Trainer
 * I am currently a professional fighter in the roster of Super Smash Bros Ultimate as well as a casual fitness trainer. As a fighter, I have successfully turned my low tier self from SSB4 into a viable fighter in the meta. I am flexible, powerful, and determined to continue tightening my glutes. I believe that people need to take care of their health, and I am the right person to help them. In my Wii Fit position, I have successfully sold 22.67 million copies of my fitness training practices.
