@@ -22,6 +22,6 @@ This repo includes the resumes of the following people:
 * 5 sentence summary describing the person from Resume 3.
 * Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
 
-###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
-* 5 sentence summary describing the person from Resume 4.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### [Pikachu]
+* Pikachu is an electric mouse Pokemon, looking for a new job. With his trainer, Ash Ketchum, and the rest of their team, Pikachu is trying to be the very best there ever was. To be quite honest, he's practically there already. You can tell because he was voiced by Ryan Reynalds. Pikachu loves ketchup and hanging out with his fellow pokemon. He also loves long walks on the beach and Pina Coladas.
+* Jobs interested in: Model, Voice Actor, Pop Star
